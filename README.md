@@ -1,6 +1,6 @@
 README
 
-A collection of pico drivers for i2c and sip devices that I've 
+A collection of pico drivers for i2c devices that I've 
 re-written from all sorts of 
 sources:
 BMP180 - Anavi
