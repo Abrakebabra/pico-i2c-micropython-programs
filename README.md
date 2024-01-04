@@ -14,7 +14,7 @@ whatever is plugged in, otherwise to ignore those commands. </br>
  </br>
  To do / In progress: </br>
  LSM303D (6DOF motion sensor) </br>
- PA1010D (GPS) - this might take me forever </br>
+ PA1010D (GPS) - 80% done - last 20% might take forever </br>
  BH1745 (Luminance and color) </br>
  LTR-559 (Light and proximity) </br>
  
