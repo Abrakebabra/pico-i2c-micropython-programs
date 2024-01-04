@@ -9,7 +9,7 @@ ICP10125 (Pressure, altitude, temp)- Pimoroni </br>
 IS31FL3731 (RGB LED display) - Pimoroni </br>
 SCD4X (CO2, temp, humidity) - Pimoroni </br>
  </br>
-i2c-lazy-controller - An original file used to detect and run with  </br>
+controller - An original file used to detect and run with  </br>
 whatever is plugged in, otherwise to ignore those commands. </br>
  </br>
  To do / In progress: </br>
